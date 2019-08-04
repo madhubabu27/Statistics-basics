@@ -1,2 +1,2 @@
 # Statistics-basics
-Statistics
+Statistics for Machine Learning
